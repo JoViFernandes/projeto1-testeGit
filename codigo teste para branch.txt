@@ -3,3 +3,5 @@ digite seu e-mail:
 digite sua senha:
 
 digite seu nome:
+
+digite sua idade
